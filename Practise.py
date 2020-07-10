@@ -1,1 +1,3 @@
-print ("Hello! I dont you")
+var abc=wasssup;
+
+print ("Hello! I dont you",abc)
