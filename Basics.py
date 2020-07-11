@@ -1,8 +1,9 @@
-import datetime
-text="not your file"
-text1='open'
-time=datetime.datetime.now()
+mood="Good"
+strength=90.99
+rank=4
 
-print (text,time,text1)
+tmood= type(mood)
+tstrength= type(strength)
+trank= type(rank)
 
-
+print(tmood,tstrength,trank)
